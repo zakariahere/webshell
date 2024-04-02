@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: WebShell
+server:
+  port: 65100
